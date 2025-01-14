@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 
 **`CS Student @ The Hebrew University of Jerusalem`**
 
+![#OpenToWork](https://img.shields.io/badge/%23OpenToWork-open?style=flat-square)
+
 - 🌍 Based in Israel
 - 💼 Connect with me on [LinkedIn](https://linkedin.com/in/gilad-ticher)
-- 📫 Reach me at [gilad.ticher@example.com](mailto:gilad.ticher@gmail.com)
+- 📫 Reach me at [gilad.ticher@gmail.com](mailto:gilad.ticher@gmail.com)
 
 ## 🛠️ Technologies & Tools
 
