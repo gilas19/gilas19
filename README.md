@@ -26,17 +26,17 @@ Here are some ideas to get you started:
 
 ## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ## 🚀 Projects
 
 Here are some of my notable projects:
 
-- [**RushHour**](https://github.com/gilas19/RushHour): A Python implementation of the classic Rush Hour puzzle game, demonstrating problem-solving and algorithmic skills.
+- [**RushHour**](https://github.com/gilas19/RushHour): A project that implements various AI algorithms to solve the Rush Hour puzzle game
 
 - [**nand2tetris**](https://github.com/gilas19/nand2tetris): Projects and exercises from the Nand2Tetris course, building a computer from the ground up.
 
